@@ -3,152 +3,156 @@
     "description": "White iconset",
     "icons": [
         {
+            "name": "apple-games",
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/apple-games.png"
+        },
+        {
             "name": "appleintelligence",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/appleintelligence.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/appleintelligence.png"
         },
         {
             "name": "applespringloaded",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/applespringloaded.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/applespringloaded.png"
         },
         {
             "name": "bilibili",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/bilibili.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/bilibili.png"
         },
         {
             "name": "cloudflare",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/cloudflare.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/cloudflare.png"
         },
         {
             "name": "cloudflarewarp",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/cloudflarewarp.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/cloudflarewarp.png"
         },
         {
             "name": "degyax",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/degyax.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/degyax.png"
         },
         {
             "name": "degyaxpro",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/degyaxpro.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/degyaxpro.png"
         },
         {
             "name": "discord",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/discord.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/discord.png"
         },
         {
             "name": "dlercloud",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/dlercloud.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/dlercloud.png"
         },
         {
             "name": "emby",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/emby.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/emby.png"
         },
         {
             "name": "fishchips",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/fishchips.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/fishchips.png"
         },
         {
             "name": "google",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/google.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/google.png"
         },
         {
             "name": "halocloud",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/halocloud.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/halocloud.png"
         },
         {
             "name": "infiniport",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/infiniport.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/infiniport.png"
         },
         {
             "name": "instagram",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/instagram.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/instagram.png"
         },
         {
             "name": "loon",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/loon.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/loon.png"
         },
         {
             "name": "meta",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/meta.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/meta.png"
         },
         {
             "name": "microsoft",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/microsoft.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/microsoft.png"
         },
         {
             "name": "netflix",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/netflix.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/netflix.png"
         },
         {
             "name": "openai",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/openai.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/openai.png"
         },
         {
             "name": "oracle",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/oracle.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/oracle.png"
         },
         {
             "name": "perplexity",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/perplexity.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/perplexity.png"
         },
         {
             "name": "reddit",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/reddit.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/reddit.png"
         },
         {
             "name": "riotgames",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/riotgames.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/riotgames.png"
         },
         {
             "name": "sinaweibo",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/sinaweibo.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/sinaweibo.png"
         },
         {
             "name": "slack",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/slack.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/slack.png"
         },
         {
             "name": "stash",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/stash.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/stash.png"
         },
         {
             "name": "surge",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/surge.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/surge.png"
         },
         {
             "name": "telegram",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/telegram.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/telegram.png"
         },
         {
             "name": "tencent",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/tencent.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/tencent.png"
         },
         {
             "name": "threads",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/threads.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/threads.png"
         },
         {
             "name": "tiktok",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/tiktok.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/tiktok.png"
         },
         {
             "name": "tvknetwork",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/tvknetwork.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/tvknetwork.png"
         },
         {
             "name": "v2tun",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/v2tun.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/v2tun.png"
         },
         {
             "name": "wechat",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/wechat.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/wechat.png"
         },
         {
             "name": "x",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/x.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/x.png"
         },
         {
             "name": "youtube",
-            "url": "https://github.com/shindgewongxj/WHATSINStash/raw/main/iconset/white/youtube.png"
+            "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/youtube.png"
         }
     ]
 }
